@@ -5,6 +5,8 @@ along with documentation related to food preparation that I found interesting.
 
 ## License
 
+Copyright (C) 1996 and onward, Michael J. Fromberger. All Rights Reserved.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 these files (the "Content"), to deal in the Content without restriction,
 including without limitation the rights to use, copy, modify, merge, publish,
