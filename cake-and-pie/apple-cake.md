@@ -2,6 +2,7 @@
 
 Recipe from: Josefine Spies
 
+![apple cake](../img/apple-cake.jpg)
 
 ## Ingredients
 
