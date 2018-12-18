@@ -3,6 +3,17 @@
 This repository contains various food recipes (from family and otherwise),
 along with documentation related to food preparation that I found interesting.
 
+## Conversion for Printing
+
+The recipes in this repository are stored as Markdown. For printing, I find it
+helpful to convert them to another format such as RTF or PDF. I find [pandoc][]
+useful for this purpose:
+
+    pandoc -s -o recipe.rtf recipe.md
+
+[pandoc]: https://pandoc.org/
+
+
 ## Weights & Measures
 
 Since I and most of my family live in the U.S., most or all of these recipes
