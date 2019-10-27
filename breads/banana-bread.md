@@ -25,7 +25,7 @@
 
 - 1 c. mashed banana (typically: 2 bananas)
 - 4 tbsp. buttermilk (alt: 1 tbsp. cream + 3 tbsp. milk + 1 tsp. lemon juice)
-- 1 tbsp. sour cream
+- 1 tbsp. sour cream (optional)
 
 ### Topping
 
@@ -39,7 +39,7 @@
 
 - Combine cinnamon and sugar for topping and set aside.
 
-- Mash banana with buttermilk and set aside.
+- Mash banana thoroughly with buttermilk (and sour cream) and set aside.
 
 - Cream butter and sugar well, then beat in egg and vanilla extract.
 
