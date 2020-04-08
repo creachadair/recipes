@@ -50,3 +50,8 @@
 - Pour batter into a (greased) 9×5 loaf pan and level.
 - Sprinkle topping evenly over the batter.
 - Bake 350°F 45–60 min.
+
+## Notes
+
+- 2 or 3 typical bananas is fine for a single loaf.
+  At 4 or more, you should split the recipe, to preserve texture.
