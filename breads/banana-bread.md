@@ -24,7 +24,7 @@
 
 
 - 1 c. mashed banana (typically: 2 bananas)
-- 4 tbsp. buttermilk (alt: 1 tbsp. cream + 3 tbsp. milk + 1 tsp. lemon juice)
+- 1/3 c. buttermilk (alt: 1 tbsp. cream + 1/4 c. milk + 1 tsp. lemon juice)
 - 1 tbsp. sour cream (optional)
 
 ### Topping
