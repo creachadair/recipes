@@ -17,8 +17,8 @@
 
 
 - 1/2 c. butter (alt: 1 c. shortening + 6 tbsp. water)
-- 1/2 c. white sugar
-- 1/4 c. packed brown sugar
+- 1/2 c. white sugar (100g, 3.55oz)
+- 1/4 c. packed brown sugar (55g, 1.9oz)
 - 1/4 tsp. vanilla extract
 - 1 egg
 
