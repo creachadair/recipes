@@ -8,7 +8,7 @@
 
 ### Batter
 
-- 2 c. white all-purpose flour
+- 2 c. white all-purpose flour (256g, 9oz)
 - 1/2 tsp. baking soda
 - 2 tsp. baking powder
 - 1/4 tsp. salt
