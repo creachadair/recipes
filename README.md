@@ -20,18 +20,21 @@ Since I and most of my family live in the U.S., most or all of these recipes
 are given in English units. To the extent possible I have tried to normalize
 the notation for these units, since there is some variation.
 
-One of the peculiarities of English recipes, is that they often use liquid
-meaures (teaspoons, tablespoons) for small amounts of dry ingredients such as
-salt, spices, baking powder, and baking soda. The correct way to measure dry
-ingredients is of course by mass -- and professional cooks even in the U.S. do
-so.  Family recipes, however, are rarely written that way -- and in fact many
-home kitchens do not maintain a suitable mass balance. Many of the recipes you
-find in English on the Internet are aimed at home cooks, and so share this
-peculiarity.
+One peculiarity of U.S. recipes is they often use liquid meaures (teaspoons,
+tablespoons) for small amounts of dry ingredients such as salt, spices, baking
+powder, and baking soda. The correct way to measure dry ingredients is of
+course by mass -- and professional cooks even in the U.S. do so.  Family
+recipes, however, are rarely written that way. In fact many home kitchens do
+not maintain a suitable mass balance. Many of the recipes you find in English
+on the Internet are aimed at home cooks, and so share this peculiarity.
 
-Someday I would like to convert all the dry volume measures in my recipes to
-mass, but that task has so far eluded my patience. If you have a notion to give
-that treatment to one of the recipes here, feel free to send me a pull request.
+I may eventually convert more of the dry volume measures in my recipes to mass.
+The specific impediment is that the volume conversion to mass varies by
+ingredient (e.g., all-purpose flour is generally converted at 125–130g per cup;
+whole-wheat bread flour at 120g; white granulated sugar at 215g per cup). So
+I'll need to update each recipe separately. Another issue is simple
+convenience: For ingredients where precision doesn't matter (e.g., sugar in
+quickbread) it is just simpler to use a scoop than a mass balance.
 
 Here are the basic liquid measure notations. Note that culinary teaspoons are
 ordinarly sold in sets with 1/8, 1/4, 1/2, and 1 teaspoon measures.
