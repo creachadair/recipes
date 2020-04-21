@@ -1,4 +1,4 @@
-# Family Recipes and Other Interesting Food
+# Family Recipes and Other Food-Related Documentation
 
 This repository contains various food recipes (from family and otherwise),
 along with documentation related to food preparation that I found interesting.
