@@ -23,7 +23,7 @@
 - 1 egg
 
 
-- 1 c. mashed banana (typically: 2 bananas)
+- 1 to 1.5 c. banana (typically: 2 or 3 bananas)
 - 1/3 c. buttermilk (alt: 1 tbsp. cream + 1/4 c. milk + 1 tsp. lemon juice)
 - 1 tbsp. sour cream (optional)
 
@@ -53,5 +53,5 @@
 
 ## Notes
 
-- 2 or 3 typical bananas is fine for a single loaf.
-  At 4 or more, you should split the recipe, to preserve texture.
+- 2 or 3 typical bananas is fine for a single loaf; I prefer the texture with 3.
+  At 4 or more, you should split the recipe.
