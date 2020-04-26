@@ -13,7 +13,7 @@
 - 2 tsp. baking powder
 - 1/4 tsp. salt
 - 1 tsp. ground cinnamon
-- 1/4 c. chopped walnuts (optional)
+- 1/4 c. chopped walnuts (optional; 50g dry weight)
 
 
 - 1/2 c. butter (alt: 1 c. shortening + 6 tbsp. water)
