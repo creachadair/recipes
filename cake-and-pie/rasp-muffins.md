@@ -5,8 +5,7 @@ Hanover, New Hampshire. Adapted to small batches by M. J. Fromberger.
 
 *Synopsis:* Sweet muffins with whole raspberries.
 
-<!-- Images should be 400px wide -->
-<!-- TODO: ![image](../img/rasp-muffins.jpg) -->
+![image](../img/rasp-muffins.jpg)
 
 ## Ingredients
 
