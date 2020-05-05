@@ -12,7 +12,7 @@ Hanover, New Hampshire. Adapted to small batches by M. J. Fromberger.
 
 ### Batter
 
-- 1 1/2 c. white all-purpose flour
+- 1 1/2 c. white all-purpose flour (192g)
 - 1/2 c. steel-cut or quick oats
 - 1/2 c. chopped walnuts (optional)
 - 1/2 c. packed brown sugar
