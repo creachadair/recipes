@@ -2,7 +2,7 @@
 
 *Synopsis:* A cinnamon-flavoured quick bread with bananas and waluts.
 
-<!-- TODO: ![image](../img/banana-bread.jpg) -->
+![image](../img/banana-bread.jpg)
 
 ## Ingredients
 
