@@ -13,12 +13,12 @@ Hanover, New Hampshire. Adapted to small batches by M. J. Fromberger.
 ### Batter
 
 - 1 1/2 c. white all-purpose flour (192g)
+- 1/4 tsp. salt
+- 1 tsp. baking soda
+- 2 tsp. baking powder
 - 1/2 c. steel-cut or quick oats
 - 1/2 c. chopped walnuts (optional)
 - 1/2 c. packed brown sugar
-- 1/4 tsp. salt
-- 2 tsp. baking powder
-- 1 tsp. baking soda
 - 2 eggs
 - 1/2 c. buttermilk
 - 1/2 c. vegetable oil
