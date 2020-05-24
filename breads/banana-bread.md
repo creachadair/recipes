@@ -14,6 +14,7 @@
 - 1/4 tsp. salt
 - 1 tsp. ground cinnamon
 - 1/4 c. chopped walnuts (optional; 50g dry weight)
+- 2 tbsp. shredded or flaked (sweetened) coconut (optional)
 
 
 - 1/2 c. butter (alt: 1 c. shortening + 6 tbsp. water)
@@ -35,7 +36,9 @@
 ## Preparation
 
 - Sift flour, baking soda, baking powder, salt, and cinnamon and set aside.
-  Mix in walnuts (after sifting) if including them in the recipe.
+
+    After sifting, mix in walnuts and coconut with dry ingredients if including
+    them in the recipe.
 
 - Combine cinnamon and sugar for topping and set aside.
 
