@@ -42,7 +42,7 @@ filling so that it has time to stand.
 -  Cut apples into small chunks in a bowl.
 -  Combine cinnamon and sugar.
 -  Add lemon juice and cinnamon-sugar mix to apples.
--  Stir gently to combine, and set aside.
+-  Stir gently to combine; cover, and set aside.
 
 ### Dough
 
@@ -56,6 +56,7 @@ filling so that it has time to stand.
 ### Topping
 
 -  Work ingredients together with your hands until it all sticks together.
+-  If it is necessary to let the topping stand, cover and refrigerate.
 
 
 ## Assembly & Baking
@@ -69,5 +70,7 @@ filling so that it has time to stand.
 
 ## Notes
 
-*  For a crisper, sweeter crust, add a bit more sugar, by the amount of a
-   heaping measure.
+*  Do not let the butter soften too much in advance; it is easier to work and
+   develops a better texture if it is still fairly cold.
+
+*  For a crisper, sweeter crust, add 1 tbsp. extra sugar.
