@@ -14,7 +14,7 @@ Recipe from: Josefine Spies
 - juice of 1 lemon, 1-2 tbsp.
 - 1 tsp. cinnamon.
 - 2 tbsp. white sugar.
-- (optional) 1/4 c. finely-chipped walnuts.
+- (optional) 1/4 c. finely-chopped walnuts.
 
 ### Dough
 
