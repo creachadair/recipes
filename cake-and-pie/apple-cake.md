@@ -8,6 +8,14 @@ Recipe from: Josefine Spies
 
 ## Ingredients
 
+### Filling
+
+- 4 or 5 good-sized apples.
+- juice of 1 lemon, 1-2 tbsp.
+- 1 tsp. cinnamon.
+- 2 tbsp. white sugar.
+- (optional) 1/4 c. finely-chipped walnuts.
+
 ### Dough
 
 - 1 1/2 c. flour
@@ -16,13 +24,6 @@ Recipe from: Josefine Spies
 - 1 egg
 - 1 stick butter
 - dash of salt
-
-### Filling
-
-- 4 or 5 good-sized apples.
-- juice of 1 lemon, 1-2 tbsp.
-- 1 tsp. cinnamon
-- 2 tbsp. white sugar.
 
 ### Topping
 
@@ -33,6 +34,16 @@ Recipe from: Josefine Spies
 
 ## Preparation
 
+You may prepare the components in any order, but I recommend starting with the
+filling so that it has time to stand.
+
+### Filling
+
+-  Cut apples into small chunks in a bowl.
+-  Combine cinnamon and sugar.
+-  Add lemon juice and cinnamon-sugar mix to apples.
+-  Stir gently to combine, and set aside.
+
 ### Dough
 
 -  Mix together all ingredients with hands to make a flexible dough.
@@ -41,13 +52,6 @@ Recipe from: Josefine Spies
 
 -  Press into either a 9 in. round cake pan or round baking dish to form a
    shell. Be sure the dough covers the bottom and sides completely.
-
-### Filling
-
--  Cut apples into small chunks in a bowl.
--  Combine cinnamon and sugar.
--  Add lemon juice and cinnamon-sugar mix to apples.
--  Stir gently to combine, and set aside.
 
 ### Topping
 
