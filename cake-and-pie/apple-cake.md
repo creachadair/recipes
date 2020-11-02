@@ -18,17 +18,17 @@ Recipe from: Josefine Spies
 
 ### Dough
 
-- 1 1/2 c. flour
+- 1 1/2 c. flour (192g)
 - 1/2 tsp. baking powder
-- 1/3 c. sugar
+- 1/3 c. sugar (70g)
 - 1 egg
 - 1 stick butter
 - dash of salt
 
 ### Topping
 
--  1/2 c. flour
--  1/4 c. sugar
+-  1/2 c. flour (64g)
+-  1/4 c. sugar (52g)_
 -  1/4 c. butter or margarine
 
 
