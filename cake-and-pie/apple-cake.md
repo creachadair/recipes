@@ -28,7 +28,7 @@ Recipe from: Josefine Spies
 ### Topping
 
 -  1/2 c. flour (64g)
--  1/4 c. sugar (52g)_
+-  1/4 c. sugar (53g)
 -  1/4 c. butter or margarine
 
 
