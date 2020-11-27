@@ -22,8 +22,10 @@
 ### Boiling eggs
 
 1.  Immerse in cold water until covered.
-2.  Bring to a slow rolling boil, and let cook uncovered 10-12 minutes.
-3.  Drain and rinse with cold water to cool.
+2.  Add salt and optionally a bit of vinegar.
+3.  Bring to a slow rolling boil, uncovered; then turn off heat.
+4.  Cover and let stand 10-12 minutes.
+5.  Drain and rinse with cold water to cool.
 
 ### Filling
 
