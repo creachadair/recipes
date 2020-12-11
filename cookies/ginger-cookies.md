@@ -4,37 +4,42 @@ Recipe from: Alissa McFarlin
 
 *Synopsis:* Sugared molasses cookies with minced crystallized ginger
 
-<!-- TODO: ![image](../img/recipe-title.jpg) -->
+<!-- TODO: ![image](../img/ginger-cookies.jpg) -->
 
 ## Ingredients
 
--  1/2 c. crystallized ginger, chopped
--  3/4 c. white sugar
+### Wet
+
 -  6 tbsp. butter or margarine
+-  3/4 c. white sugar
+-  1/2 c. crystallized ginger
 -  1/4 c. molasses
 -  1 large egg
+
+### Dry
+
 -  2 c.	flour
 -  2 tsp. baking soda
 -  3/4 tsp.	ground cinnamon
--  1/2 tsp. groundnutmeg
+-  1/2 tsp. ground nutmeg
 
 
 ## Preparation
 
-1.  Chop ginger and macerate in 1/3 c. of the sugar.
-2.  Cream together butter and 1/3 c. of the sugar, and beat until fluffy.
-3.  Fold ginger, molasses, and egg, and mix well.
-4.  In a separate bowl, mix flour, baking soda, cinnamon, and nutmeg.
-5.  Fold dry ingredients gradually into the wet base.
-6.  Cover dough and chill for at least 1 hour.
+-  Chop ginger and macerate in 1/3 c. of the sugar.
+-  Cream together butter and 1/3 c. of the sugar, and beat until fluffy.
+-  Fold ginger, molasses, and egg, and mix well.
+-  In a separate bowl, mix flour, baking soda, cinnamon, and nutmeg.
+-  Fold dry ingredients gradually into the wet base.
+-  Cover dough and chill for at least 1 hour.
 
 
 ## Assembly & Baking
 
-1.  Shape dough into spherical balls.
-2.  Roll each ball in white sugar (use the remaining sugar).
-3.  Place sugared spheres 2–3 inches apart on a greased baking sheet.
-4.  Bake at 350°F for 10–12 minutes.
+-  Shape dough into spherical balls.
+-  Roll each ball in white sugar (use the remaining sugar).
+-  Place sugared spheres 2–3 inches apart on a greased baking sheet.
+-  Bake at 350°F for 10–12 minutes.
 
 
 ## Notes
