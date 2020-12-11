@@ -62,6 +62,7 @@ Several hours before baking, or overnight:
 
 ## Notes
 
+*  Makes 5 to 6 dozen cookies.
 *  You can add the jam either before or after baking.
 *  Apricot jam also works well.
    
