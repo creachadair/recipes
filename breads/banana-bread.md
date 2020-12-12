@@ -43,6 +43,7 @@
 - Combine cinnamon and sugar for topping and set aside.
 
 - Mash banana thoroughly with buttermilk (and sour cream) and set aside.
+  If using 3 bananas, consider adding 1 to 2 tbsp. additional milk.
 
 - Cream butter and sugar well, then beat in egg and vanilla extract.
 
