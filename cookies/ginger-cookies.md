@@ -4,7 +4,7 @@ Recipe from: Alissa McFarlin
 
 *Synopsis:* Sugared molasses cookies with minced crystallized ginger
 
-<!-- TODO: ![image](../img/ginger-cookies.jpg) -->
+![image](../img/ginger-cookies.jpg)
 
 ## Ingredients
 
