@@ -12,7 +12,7 @@ Recipe from: Alissa McFarlin
 
 -  6 tbsp. butter or margarine
 -  3/4 c. white sugar
--  1/2 c. crystallized ginger
+-  1/2 c. crystallized ginger (85–90 g.)
 -  1/4 c. molasses
 -  1 large egg
 
