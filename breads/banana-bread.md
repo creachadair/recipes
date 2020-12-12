@@ -14,7 +14,7 @@
 - 1/4 tsp. salt
 - 1 tsp. ground cinnamon
 - 1/4 c. chopped walnuts (optional; 50g dry weight)
-- 2 tbsp. shredded or flaked (sweetened) coconut (optional)
+- 1 tbsp. shredded or flaked (sweetened) coconut (optional)
 
 
 - 1/2 c. butter (alt: 1 c. shortening + 6 tbsp. water)
@@ -56,5 +56,9 @@
 
 ## Notes
 
+- When adding coconut, chop the coconut along with the walnuts to avoid long
+  "threads" of coconut in the bread. It's fine either way, but the texture is
+  better with small pieces.
+  
 - 2 or 3 typical bananas is fine for a single loaf; I prefer the texture with 3.
   At 4 or more, you should split the recipe.
