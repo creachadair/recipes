@@ -36,7 +36,7 @@ Recipe from: Alissa McFarlin
 -  Fold ginger, molasses, and egg, and mix well.
 -  In a separate bowl, mix flour, baking soda, cinnamon, and nutmeg.
 -  Fold dry ingredients gradually into the wet base.
--  Cover dough and chill for at least 1 hour.
+-  Cover dough and chill for at least 1 hour (overnight is fine).
 
 
 ## Assembly & Baking
