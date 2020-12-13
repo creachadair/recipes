@@ -15,7 +15,7 @@ Recipe from: Alissa McFarlin
 -  1/4 c. molasses
 -  1 large egg
 
-## Ginger
+### Ginger
 
 -  1/2 c. crystallized ginger (85 to 90g)
 -  1/3 c. white sugar
