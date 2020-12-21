@@ -63,3 +63,6 @@
   
 - 2 or 3 typical bananas is fine for a single loaf; I prefer the texture with 3.
   At 4 or more, you should split the recipe.
+
+- **Holiday variant:** Replace half or more of the buttermilk with egg nog, and
+  reduce sugar by 1 tbsp.
