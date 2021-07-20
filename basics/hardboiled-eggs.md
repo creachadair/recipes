@@ -8,8 +8,8 @@
 
 ## Cooking Time
 
-- Soft boiled: 10 minutes
+- Soft boiled: 11 minutes
 - Firm boiled: 12 minutes
-- Full cooked: 12.5 minutes
+- Full cooked: 13 minutes
 
 It is not necessary to add salt or vinegar to the water as you would do for curing when boiling in the water directly.
