@@ -6,7 +6,7 @@
 
 ## Ingredients
 
--  8 eggs, hard boiled
+-  8 eggs, [hard boiled](../basics/hardboiled-eggs.md)
 -  8 tbsp. mayonnaise
 -  1/2 tsp. ground horseradish
 -  1/8 tsp. ground black pepper
