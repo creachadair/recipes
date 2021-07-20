@@ -19,13 +19,7 @@
 
 ## Preparation
 
-### Boiling eggs
-
-1.  Immerse in cold water until covered.
-2.  Add salt and optionally a bit of vinegar.
-3.  Bring to a slow rolling boil, uncovered; then turn off heat.
-4.  Cover and let stand 10-12 minutes.
-5.  Drain and rinse with cold water to cool.
+[Boil eggs](../basics/hardboiled-eggs.md) to a firm or fully cooked yolk stage.
 
 ### Filling
 
