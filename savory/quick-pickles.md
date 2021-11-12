@@ -55,3 +55,7 @@ After jars are sealed, they should be refrigerated for storage.
 
 *  Good herb ideas: Dill, thyme, oregano, marjoram, rosemary.
    
+*  A trick for measuring liquid volume: Cut up the vegetables and fill the
+   dry containers, but do not add herbs or spices. Fill with water, then
+   drain that water into a measuring cup. Pour off half the measured volume
+   and top up with vinegar.
