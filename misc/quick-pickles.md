@@ -2,6 +2,10 @@
 
 *Synopsis:* Quick pickled vegetables.
 
+Quick pickles are sometimes called "refrigerator" pickles.  They are not
+suitable for long-term storage, but will keep well for a few weeks if stored
+refrigerated after preparation.
+
 <!-- Images should be 400px wide -->
 <!-- TODO: ![image](../img/quick-pickles.jpg) -->
 
@@ -14,7 +18,7 @@
 
 -  Equal parts vinegar and water.
 -  1 tbsp. (kosher) salt or 2 tsp. pickling salt per 1 c. water.
--  1 tsp. granulated sugar per 1 c. water.
+-  1 tsp. granulated sugar per 1 c. water (optional).
 -  Vegetables for pickling, 1 pint per 1 c. water.
 -  Herbs and spices to taste: 1 to 3 tsp. per 1 c. water.
 
