@@ -22,7 +22,7 @@
 -  1-2 medium carrots (TODO: mass).
 -  1 medium zucchini (TODO: mass).
 -  5-6 white or cremini mushrooms.
--  8 oz. chick peas, soaked (~225 g.).
+-  8 oz. chick peas, soaked (~225 g. or half a 16 oz. can).
 -  5-6 tbsp. olive (or other vegetable) oil.
 -  3 tbsp. Patak's curry spice paste (or equivalent).
 -  1 3/4 c. water.
@@ -51,6 +51,7 @@ brine and rinse the chicken thoroughly with fresh water.
 -  Cut zucchini into half or quarter discs.
 -  Cut mushrooms into coarse chunks (halves or thirds).
 -  Cut chicken into bite-size pieces (2 cm.).
+-  Drain (and optionally rinse) chick peas.
 -  Add corn starch to the water and mix thoroughly.
 
 ## Assembly & Baking
