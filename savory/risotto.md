@@ -12,8 +12,8 @@ flavour profiles.
 
 -  100g short-grain rice
 -  600mL water or broth
--  2-3 T finely-minced sweet onion
--  2 T olive oil
+-  2-3 tbsp. finely-minced sweet onion
+-  2 tbsp. olive oil
 -  [optional] other ingredients to taste
 -  [optional] other spices
 
@@ -50,7 +50,7 @@ with the broth for stronger additives.
 
 *  Additives for broth:
    - 1 tsp soy sauce.
-   - With sweet potato: 1 T maple syrup.
+   - With sweet potato: 1 tbsp. maple syrup.
 
 *  Optionally finish with a small block of smoked Gouda or parmesan, shredded.
    Add this near the end of cooking.
