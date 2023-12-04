@@ -5,8 +5,7 @@
 Risotto is essentially the same concept as congee, but with a different set of
 flavour profiles.
 
-<!-- Images should be 400px wide -->
-<!-- TODO: ![image](../img/recipe-title.jpg) -->
+![image](../img/risotto.jpg)
 
 ## Ingredients
 
