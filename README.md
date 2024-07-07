@@ -39,7 +39,7 @@ convenience: For ingredients where precision doesn't matter (e.g., sugar in
 quickbread) it is just simpler to use a scoop than a mass balance.
 
 Here are the basic liquid measure notations. Note that culinary teaspoons are
-ordinarly sold in sets with 1/8, 1/4, 1/2, and 1 teaspoon measures.
+ordinarily sold in sets with 1/8, 1/4, 1/2, and 1 teaspoon measures.
 
 | Rep   | Name       | Equivalent | Metric (approx) |
 |-------|------------|------------|-----------------|
