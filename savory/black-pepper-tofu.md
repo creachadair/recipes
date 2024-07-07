@@ -29,6 +29,7 @@ Recipe from: Ali Slagle (NYT)
 -  1-2 tbsp. olive oil
 -  (optional) 1 tsp. crushed or minced garlic
 -  (optional) ground sea salt
+-  (optional) sesame seeds
 
 ## Preparation
 
@@ -52,8 +53,10 @@ Recipe from: Ali Slagle (NYT)
 -  Add liquid mixture and garlic,and reduce heat
 -  Stir regularly till the roux sets, 2-5 minutes
 -  Season as desired with sea salt
+-  Sprinkle with sesame seeds (if desired) near the end of cooking
 
--  Let set 5 to 10 minutes, and serve with a squeeze of citrus (optional)
+-  Let set 5 to 10 minutes before serving.
+-  Serve with a squeeze of citrus (optional)
 
 ## Notes
 
