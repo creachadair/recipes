@@ -22,11 +22,13 @@ the notation for these units, since there is some variation.
 
 One peculiarity of U.S. recipes is they often use liquid meaures (teaspoons,
 tablespoons) for small amounts of dry ingredients such as salt, spices, baking
-powder, and baking soda. The correct way to measure dry ingredients is of
-course by mass -- and professional cooks even in the U.S. do so.  Family
-recipes, however, are rarely written that way. In fact many home kitchens do
-not maintain a suitable mass balance. Many of the recipes you find in English
-on the Internet are aimed at home cooks, and so share this peculiarity.
+powder, and baking soda. The correct way to measure dry ingredients is, of
+course, by mass—and professional cooks (even in the U.S.) do this.  Family
+recipes, however, are rarely written that way. In fact, many home kitchens do
+not maintain a suitable mass balance. Even if they did, the amounts called for
+in dry ingredients are often too small to conveniently measure that way, unless
+you have a very precise scale. And so, many of the recipes you find in English
+on the Internet (aimed at home cooks), also share this peculiarity.
 
 I may eventually convert more of the dry volume measures in my recipes to mass.
 The specific impediment is that the volume conversion to mass varies by
