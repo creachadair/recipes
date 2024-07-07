@@ -32,13 +32,19 @@ Recipe from: Ali Slagle (NYT)
 
 ## Preparation
 
+### Liquid
+
 -  Microwave water for 10 to 15 seconds
 -  Dissolve honey in water
 -  Add soy sauce and/or vinegar and black pepper
 -  Mix well
 
+### Tofu
+
 -  Combine and mix flour and turmeric and other spices well in a large bowl
 -  Dredge tofu chunks in flour mixture till well-covered
+
+## Cooking
 
 -  Heat olive oil in a skillet till sizzling
 -  Add dredged tofu and cook till crispy, stirring frequently
