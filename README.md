@@ -56,7 +56,7 @@ Or, as most home cooks do, just eyeball it.
 
 Ordinarily when a recipe calls for, say, 1/2 tsp., it means a "level"
 half-teaspoon, viz., the material should be scraped off level with the top of
-the measure (not packed down), as so:
+the measure (not packed down, unless called for as with brown sugar), as so:
 
 
 ```
