@@ -2,7 +2,7 @@
 
 Recipe from: Ali Slagle (NYT)
 
-*Synopsis:* Vegetables in a reduction of sweetened tofu
+*Synopsis:* Vegetables and tofu in a lightly spiced sweet reduction
 
 ![image](../img/tbp-tofu.jpg)
 
