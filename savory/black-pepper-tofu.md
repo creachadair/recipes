@@ -4,8 +4,7 @@ Recipe from: Ali Slagle (NYT)
 
 *Synopsis:* Vegetables in a reduction of sweetened tofu
 
-<!-- Images should be 400px wide -->
-<!-- TODO: ![image](../img/recipe-title.jpg) -->
+![image](../img/tbp-tofu.jpg)
 
 ## Ingredients
 
