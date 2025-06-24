@@ -11,8 +11,8 @@ migrate back away, avoiding the dark "stain" that may otherwise occur.
 
 ## Cooking Time
 
-- Jammy (for ramen): 10 minutes
-- Soft boiled: 11 minutes
+- Jammy (for ramen): 11 minutes
+- Soft boiled: 11.5 minutes
 - Firm boiled: 12 minutes
 - Full cooked: 12.5 minutes
 
