@@ -27,9 +27,9 @@ In a mixing bowl, combine the flour, bread crumbs, all dry spices, and mix well.
 
 ### Tofu
 
-A few days ahead of time, freeze the package of tofu, and allow it to defrost
-fully in the refrigerator before beginning the steps below. This is optional,
-but freezing results in a greatly improved texture.
+**Optional but recommended:** A few days ahead of time, freeze the package of
+tofu, and allow it to defrost fully in the refrigerator before beginning the
+steps below. Freezing results in a greatly improved texture.
 
 -  Drain the tofu and press out excess water. Press firmly, but not so hard as
    to crush the structure of the block.
