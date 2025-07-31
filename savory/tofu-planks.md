@@ -2,8 +2,7 @@
 
 *Synopsis:* Pan-fried lightly spiced and breaded tofu planks.
 
-<!-- Images should be 400px wide -->
-<!-- TODO: ![image](../img/recipe-title.jpg) -->
+![image](../img/tofu-planks.jpg)
 
 ## Ingredients
 
