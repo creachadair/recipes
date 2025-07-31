@@ -17,9 +17,6 @@
 -  ground black pepper to taste
 -  1/8 tsp. ground cayenne pepper (optional)
 
-Substitute other spices as you see fit. I like to replace the cumin with ginger
-sometimes, for variety. Ground Hungarian paprika is also nice.
-
 
 ## Preparation
 
@@ -67,7 +64,8 @@ will not remain crispy after refrigeration, but can be toasted to restore them.
 ## Notes
 
 *  Substitute other spices as you see fit.  I sometimes replace the ground
-   cumin with ground ginger, for example.
+   cumin with ground ginger, for example. Ground Hungarian paprika is also
+   nice.
 
 *  I use olive oil mixed with some sesame oil for cooking, but sunflower or
    canola oil also work fine.
