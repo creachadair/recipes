@@ -42,7 +42,7 @@ steps below. Freezing results in a greatly improved texture.
 
 ## Cooking
 
--  Heat a frying pan over medium-high heat generously dosed with cooking oil.
+-  Heat a frying pan, generously dosed with cooking oil, over medium-high heat.
    The temperature should be high enough to sizzle but not to scorch.
 
 -  Lay the planks in the pan and allow them to fry, rotating occasionally to
