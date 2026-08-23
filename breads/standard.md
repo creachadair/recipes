@@ -14,6 +14,8 @@ When baking, use lower temperatures (~ 380°F) and longer baking times for a thi
 
 When using sourdough, mix the starter so that it is equal parts flour and water.  Then, for each measure of starter that you use, subtract one-half a measure of flour and one-half a measure of water from the starting requirements of the recipe.  This amount may require adjustment, but it has been my experience that sourdough is a bit touchy to get working correctly, and you should not over-estimate its strength (i.e., the vigour with which it grows).
 
+When dissolving yeast, limit water temperature to 100–110F for active dry yeast. Rapid rise yeast may be able to tolerate higher, but beyond about 120F will begin to kill the organism.
+
 ### Plain White Bread
 
 - 4 t. yeast
